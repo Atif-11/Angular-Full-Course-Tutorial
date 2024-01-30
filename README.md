@@ -31,23 +31,22 @@ bash
 npm install
 Explore the course content and start learning Angular!
 
-Course Content
-The tutorial is organized into multiple sections, covering fundamental concepts, advanced topics, and practical examples. The main folders include:
-
-src/: Contains the TypeScript (.ts) files for the Angular application.
-dist/: Output folder for the compiled JavaScript (.js) files.
-docs/: Documentation and additional resources.
+## Course Content
+The tutorial is organized into multiple sections, covering fundamental concepts, advanced topics, and practical examples. The main content includes:
+-- Contains the TypeScript (.ts) files for the Angular application.
+-- Output folder for the compiled JavaScript (.js) files.
+-- Documentation and additional resources.
 Feel free to explore each section and follow along with the examples provided.
 
-Usage
+## Usage
 To run the Angular application locally, use the following commands:
 
 bash
 ng serve
 This will start a development server, and you can access the application at http://localhost:4200 in your web browser.
 
-Contributing
+## Contributing
 If you find any issues, errors, or have suggestions for improvement, please feel free to open an issue or create a pull request. Contributions are welcome and appreciated!
 
-License
+## License
 This project is licensed under the MIT License.
